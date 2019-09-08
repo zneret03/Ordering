@@ -1,2 +1,2 @@
 # Ordering
-Practice
+Java Project Ordering and Billing
